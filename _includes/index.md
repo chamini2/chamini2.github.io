@@ -1,5 +1,4 @@
 
-
 I'm a software engineering student at University Simón Bolívar, Sartenejas, Venezuela.
 
 ## projects
@@ -8,34 +7,34 @@ I have worked on several projects, most of them for university courses.
 
 ### in development
 
-* #### [Sapphire](github.com/chamini2/sapphire)
-Programming language ***Sapphire***, designed by [Germán León](github.com/germanleonz) and me.
-The compiler is being developed in **Haskell**, using *[Alex](github.com/simonmar/alex)* and *[Happy](github.com/simonmar/happy)*, which is the equivalent of *Flex* and *Bison* in **C++**.
+* #### [Sapphire](https://github.com/chamini2/sapphire)
+Programming language ***Sapphire***, designed by [Germán León](https://github.com/germanleonz) and me.
+The compiler is being developed in **Haskell**, using *[Alex](https://github.com/simonmar/alex)* and *[Happy](https://github.com/simonmar/happy)*, which is the equivalent of *Flex* and *Bison* in **C++**.
 It's still in early development.
 
-* #### [Rubik's Cube](github.com/chamini2/rubiks_cube)
+* #### [Rubik's Cube](https://github.com/chamini2/rubiks_cube)
 Rubik's cube solver developed in **C++**.
 Approached using `IDA*` algorithm and *Pattern Databases*.
 
 ### past work
 
-* #### [Gas Delivery Simulator](github.com/chamini2/gas_delivery_simulator)
+* #### [Gas Delivery Simulator](https://github.com/chamini2/gas_delivery_simulator)
 Client-server application for simulating gas delivery to gas stations.
 Developed in **C** using two different approaches, *Sockets* and *RPC*.
 
-* #### [Rangex](gtihub.com/chamini2/rangex)
+* #### [Rangex](https://gtihub.com/chamini2/rangex)
 Interpreter for *fake* programming language Rangex.
 Developed in **Python** using *[PLY](http://www.dabeaz.com/ply/)*.
 
-* #### [Hard drive access simulator](github.com/chamini2/disk_simulator)
+* #### [Hard drive access simulator](https://github.com/chamini2/disk_simulator)
 GUI simulating random access to disk and how the hard drive handles it with the *Shortest Seek Time First (SSTF)* scheduling. Developed in **Java** and using *Swing* for the interface.
 
-* #### [Wordsearch](github.com/chamini2/wordsearch)
+* #### [Wordsearch](https://github.com/chamini2/wordsearch)
 Wordsearch solver developed in **SWI-Prolog**.
 
 
 
-> if you wish to see more of my work, head over to my [GitHub page](github.com/chamini2).
+> if you wish to see more of my work, head over to my [GitHub page](https://github.com/chamini2).
 
 <!-- <table>
     <tr>
@@ -75,4 +74,4 @@ Now just use your infinite list of Fibonacci numbers, for whatever thing you cou
 
 <!-- ![Matteo Ferrando](https://s.gravatar.com/avatar/a1ed120c8ab66ed191f289cafa0b58ee?s=80) -->
 
-[Twitter](http://twitter.com/chamini2) / [GitHub](http://github.com/chamini2) / [Facebook](http://facebook.com/chamini2) / [StackOverflow](http://stackoverflow.com/users/1276441/chamini2)
+[Twitter](http://twitter.com/chamini2) / [GitHub](http://github.com/chamini2) / [Facebook](http://facebook.com/chamini2) / [Stack Overflow](http://stackoverflow.com/users/1276441/chamini2)
