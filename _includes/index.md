@@ -74,4 +74,4 @@ Now just use your infinite list of Fibonacci numbers, for whatever thing you cou
 
 <!-- ![Matteo Ferrando](https://s.gravatar.com/avatar/a1ed120c8ab66ed191f289cafa0b58ee?s=80) -->
 
-[Twitter](http://twitter.com/chamini2) / [GitHub](http://github.com/chamini2) / [Facebook](http://facebook.com/chamini2) / [Stack Overflow](http://stackoverflow.com/users/1276441/chamini2)
+[Twitter](http://twitter.com/chamini2) / [GitHub](http://github.com/chamini2) / [Facebook](http://facebook.com/chamini2) / [Stack Overflow](http://stackoverflow.com/users/1276441/chamini2) / [LinkedIn](http://www.linkedin.com/pub/matteo-ferrando/70/a34/a34)
