@@ -8,7 +8,7 @@ I have worked on several projects, most of them for university courses.
 ### in development
 
 * #### [Sapphire](https://github.com/chamini2/sapphire)
-Programming language ***Sapphire***, designed by [Germán León](https://github.com/germanleonz) and me.
+Programming language ***Sapphire***, designed by [germanleonz](https://github.com/germanleonz) and me.
 The compiler is being developed in **Haskell**, using *[Alex](https://github.com/simonmar/alex)* and *[Happy](https://github.com/simonmar/happy)*, which is the equivalent of *Flex* and *Bison* in **C++**.
 It's still in early development.
 
