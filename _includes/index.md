@@ -74,11 +74,11 @@ Now just use your infinite list of Fibonacci numbers, for whatever reason you co
 
 <!-- ![Matteo Ferrando](https://s.gravatar.com/avatar/a1ed120c8ab66ed191f289cafa0b58ee?s=80) -->
 
-[![Twitter]({{ site.url }}/img/twitter-128.jpg)](http://twitter.com/chamini2)
-[![Facebook]({{ site.url }}/img/facebook-128.jpg)](http://facebook.com/chamini2)
-[![Instagram]({{ site.url }}/img/instagram-128.jpg)](http://instagram.com/chamini2)
-[![GitHub]({{ site.url }}/img/github-128.jpg)](http://github.com/chamini2)
-[![Stack Overflow]({{ site.url }}/img/stackoverflow-128.)](http://stackoverflow.com/users/1276441/chamini2)
-[![LinkedIn]({{ site.url }}/img/linkedin-128.)](https://www.linkedin.com/in/chamini2)
+[![Twitter]({{ site.url }}/img/twitter-128.png)](http://twitter.com/chamini2)
+[![Facebook]({{ site.url }}/img/facebook-128.png)](http://facebook.com/chamini2)
+[![Instagram]({{ site.url }}/img/instagram-128.png)](http://instagram.com/chamini2)
+[![GitHub]({{ site.url }}/img/github-128.png)](http://github.com/chamini2)
+[![Stack Overflow]({{ site.url }}/img/stackoverflow-128.png)](http://stackoverflow.com/users/1276441/chamini2)
+[![LinkedIn]({{ site.url }}/img/linkedin-128.png)](https://www.linkedin.com/in/chamini2)
 
 *if you like the icons, go to [this website](http://frau-zeit.deviantart.com/)*
