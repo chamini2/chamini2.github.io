@@ -1,4 +1,4 @@
-source: https://github.com/chamini2/chamini2.github.io/master/
+source: https://raw.githubusercontent.com/chamini2/chamini2.github.io/master
 
 markdown: redcarpet
 pygments: true
