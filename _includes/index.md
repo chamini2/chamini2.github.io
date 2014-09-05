@@ -59,7 +59,7 @@ I consider **[Haskell](http://www.haskell.org/platform/)** an awesome programmin
 fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
 ~~~
 
-Now just use your infinite list of Fibonacci numbers, for whatever thing you could need one of those...
+Now just use your infinite list of Fibonacci numbers, for whatever reason you could need one of those...
 
 ~~~haskell
 > fibs
@@ -74,4 +74,11 @@ Now just use your infinite list of Fibonacci numbers, for whatever thing you cou
 
 <!-- ![Matteo Ferrando](https://s.gravatar.com/avatar/a1ed120c8ab66ed191f289cafa0b58ee?s=80) -->
 
-[Twitter](http://twitter.com/chamini2) / [GitHub](http://github.com/chamini2) / [Facebook](http://facebook.com/chamini2) / [Stack Overflow](http://stackoverflow.com/users/1276441/chamini2) / [LinkedIn](https://www.linkedin.com/in/chamini2)
+[![Twitter](../img/twitter-128.jpg)](http://twitter.com/chamini2) / 
+[![Facebook](../img/facebook-128.jpg)](http://facebook.com/chamini2) / 
+[![Instagram](../img/instagram-128.jpg)](http://instagram.com/chamini2) / 
+[![GitHub](../img/github-128.jpg)](http://github.com/chamini2) / 
+[![Stack Overflow](../img/stackoverflow-128.)](http://stackoverflow.com/users/1276441/chamini2) / 
+[![LinkedIn](../img/linkedin-128.)](https://www.linkedin.com/in/chamini2)
+
+*if you like the icons, go to [this website](http://frau-zeit.deviantart.com/)*
