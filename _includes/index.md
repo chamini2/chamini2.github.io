@@ -77,5 +77,5 @@ Now just use your infinite list of Fibonacci numbers, for whatever reason you co
 [<img class="social" alt="Twitter"src="/img/twitter-128.png">](http://twitter.com/chamini2) [<img class="social" alt="Facebook"src="/img/facebook-128.png">](http://facebook.com/chamini2) [<img class="social" alt="Instagram"src="/img/instagram-128.png">](http://instagram.com/chamini2) [<img class="social" alt="GitHub"src="/img/github-128.png">](http://github.com/chamini2) [<img class="social" alt="Stack Overflow"src="/img/stackoverflow-128.png">](http://stackoverflow.com/users/1276441/chamini2) [<img class="social" alt="LinkedIn"src="/img/linkedin-128.png">](https://www.linkedin.com/in/chamini2)
 
 <div class="small">
-    *if you like the icons, go to [this website](http://frau-zeit.deviantart.com/)*
+    <i>if you like the icons, go to <a href="http://frau-zeit.deviantart.com/">this website</a></i>
 </div>
