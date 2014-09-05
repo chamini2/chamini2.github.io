@@ -1,6 +1,6 @@
 .social {
-    /*float: left;*/
     width: 40px;
-    margin: 5px !important;
+    margin: 5px;
     margin-left: 20px;
+    display: inline;
 }
