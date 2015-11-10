@@ -1,6 +1,8 @@
-.social {
+.social img {
     width: 40px;
-    margin: 5px !important;
     margin-left: 20px !important;
     display: inline !important;
+}
+.social:hover {
+    text-decoration: none !important;
 }
