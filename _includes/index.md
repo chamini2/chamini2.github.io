@@ -74,8 +74,23 @@ Now just use your infinite list of Fibonacci numbers, for whatever reason you co
 
 <!-- ![Matteo Ferrando](https://s.gravatar.com/avatar/a1ed120c8ab66ed191f289cafa0b58ee?s=80) -->
 
-[<img class="social" alt="Twitter"src="/img/twitter-128.png">](http://twitter.com/chamini2) [<img class="social" alt="Facebook"src="/img/facebook-128.png">](http://facebook.com/chamini2) [<img class="social" alt="Instagram"src="/img/instagram-128.png">](http://instagram.com/chamini2) [<img class="social" alt="GitHub"src="/img/github-128.png">](http://github.com/chamini2) [<img class="social" alt="Stack Overflow"src="/img/stackoverflow-128.png">](http://stackoverflow.com/users/1276441/chamini2) [<img class="social" alt="LinkedIn"src="/img/linkedin-128.png">](https://www.linkedin.com/in/chamini2)
-
-<div class="small">
-    <i>if you like the icons, go to <a href="http://frau-zeit.deviantart.com/">this website</a></i>
-</div>
+<p>
+    <a href="http://twitter.com/chamini2" alt="Twitter">
+        <img class="social" src="/img/twitter-128.png">
+    </a>
+    <a href="http://facebook.com/chamini2" alt="Facebook">
+        <img class="social" src="/img/facebook-128.png">
+    </a>
+    <a href="http://instagram.com/chamini2" alt="Instagram">
+        <img class="social" src="/img/instagram-128.png">
+    </a>
+    <a href="http://github.com/chamini2" alt="GitHub">
+        <img class="social" src="/img/github-128.png">
+    </a>
+    <a href="http://stackoverflow.com/users/1276441/chamini2" alt="Stack Overflow">
+        <img class="social" src="/img/stackoverflow-128.png">
+    </a>
+    <a href="https://www.linkedin.com/in/chamini2" alt="LinkedIn">
+        <img class="social" src="/img/linkedin-128.png">
+    </a>
+</p>
