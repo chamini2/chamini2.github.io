@@ -1,20 +1,20 @@
 I'm a software engineering student at University Simón Bolívar, Sartenejas, Venezuela.
 
-## projects
+## Projects
 
 I have worked on several projects, most of them for university courses.
 
-### in production
+### Production
 
 * #### [Calculadora de reconversión monetaria en Venezuela](/calculadora-reconversion-monetaria)
 
-### in development
+### Development
 
 * #### [Sapphire](https://github.com/chamini2/sapphire)
 Programming language ***Sapphire***, designed by me as a hobby.
 The compiler is being developed in **Haskell**, using *[Alex](https://github.com/simonmar/alex)* and *[Happy](https://github.com/simonmar/happy)*.
 
-### past work
+### Past work
 
 * #### [Rubik's Cube](https://github.com/chamini2/rubiks_cube)
 Rubik's cube solver developed in **C++**.
