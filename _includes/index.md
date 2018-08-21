@@ -1,22 +1,24 @@
-
 I'm a software engineering student at University Simón Bolívar, Sartenejas, Venezuela.
 
 ## projects
 
 I have worked on several projects, most of them for university courses.
 
+### in production
+
+* #### [Calculadora de reconversión monetaria en Venezuela](/calculadora-reconversion-monetaria)
+
 ### in development
 
 * #### [Sapphire](https://github.com/chamini2/sapphire)
-Programming language ***Sapphire***, designed by [germanleonz](https://github.com/germanleonz) and me.
-The compiler is being developed in **Haskell**, using *[Alex](https://github.com/simonmar/alex)* and *[Happy](https://github.com/simonmar/happy)*, which is the equivalent of *Flex* and *Bison* in **C++**.
-It's still in early development.
+Programming language ***Sapphire***, designed by me as a hobby.
+The compiler is being developed in **Haskell**, using *[Alex](https://github.com/simonmar/alex)* and *[Happy](https://github.com/simonmar/happy)*.
+
+### past work
 
 * #### [Rubik's Cube](https://github.com/chamini2/rubiks_cube)
 Rubik's cube solver developed in **C++**.
 Approached using `IDA*` algorithm and *Pattern Databases*.
-
-### past work
 
 * #### [Gas Delivery Simulator](https://github.com/chamini2/gas_delivery_simulator)
 Client-server application for simulating gas delivery to gas stations.
@@ -32,22 +34,7 @@ GUI simulating random access to disk and how the hard drive handles it with the 
 * #### [Wordsearch](https://github.com/chamini2/wordsearch)
 Wordsearch solver developed in **SWI-Prolog**.
 
-
-
 > if you wish to see more of my work, head over to my [GitHub page](https://github.com/chamini2).
-
-<!-- <table>
-    <tr>
-        <th>Project</th>
-        <th>Language</th>
-    </tr>
-    <tr>
-        <td>Pokemon</td>
-        <td>Haskell</td>
-    </tr>
-</table> -->
-
-<!-- > blockquotes, and... -->
 
 ***
 
@@ -71,8 +58,6 @@ Now just use your infinite list of Fibonacci numbers, for whatever reason you co
 ---
 
 ## chamini2
-
-<!-- ![Matteo Ferrando](https://s.gravatar.com/avatar/a1ed120c8ab66ed191f289cafa0b58ee?s=80) -->
 
 <p>
     <a class="social" href="http://twitter.com/chamini2" alt="Twitter">
