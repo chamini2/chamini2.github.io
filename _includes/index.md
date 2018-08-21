@@ -38,25 +38,6 @@ Wordsearch solver developed in **SWI-Prolog**.
 
 ***
 
-## stuff
-
-I consider **[Haskell](http://www.haskell.org/platform/)** an awesome programming langauge, just take a look at the following example:
-
-~~~haskell
-fibs = 1 : 1 : zipWith (+) fibs (tail fibs)
-~~~
-
-Now just use your infinite list of Fibonacci numbers, for whatever reason you could need one of those...
-
-~~~haskell
-> fibs
-[1,1,2,3,5,8,13,21,34,55,...
-~~~
-
-*Laziness FTW?*
-
----
-
 ## chamini2
 
 <p>
