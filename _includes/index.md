@@ -1,12 +1,11 @@
 I'm a somputer engineer from University Simón Bolívar, Venezuela.
 
-These are some of my projects, this is only to link you to some of my personal work
-and interesting projects I did as a student. A more detailed look at my professional work
-can be found in [LinkedIn](https://www.linkedin.com/in/chamini2).
+These are some of my projects, this is some of my personal or side projects.
+A more detailed look at my experience can be found in [LinkedIn](https://www.linkedin.com/in/chamini2).
 
 ## Projects
 
-Most of these are for university courses.
+Some of these are for university courses.
 
 ### Production
 
@@ -31,17 +30,12 @@ The compiler is being developed in **Haskell**, using *[Alex](https://github.com
 * #### [Peras con Manzanas](https://github.com/chamini2/perasconmanzanas) (Formerly at https://perasconmanzanas.com/)
 Simple online inventory management. Focused in venezuelan start-ups that are focusing on getting
 their product out and may have multiple people making changes to the inventory.
-
-Tested [PostgREST](https://postgrest.org/) over a Postgres database with row-level security. 
+Used [PostgREST](https://postgrest.org/) over a Postgres database with row-level security. 
 And had a small NodeJS api on top of it. Migrations written in [Sqitch](https://sqitch.org).
 
 * #### [Rubik's Cube](https://github.com/chamini2/rubiks_cube)
 Rubik's cube solver developed in **C++**.
 Approached using `IDA*` algorithm and *Pattern Databases*.
-
-* #### [Gas Delivery Simulator](https://github.com/chamini2/gas_delivery_simulator)
-Client-server application for simulating gas delivery to gas stations.
-Developed in **C** using two different approaches, *Sockets* and *RPC*.
 
 * #### [Rangex](https://gtihub.com/chamini2/rangex)
 Interpreter for programming language Rangex, designed specifically for the course.
@@ -62,12 +56,6 @@ Wordsearch solver developed in **SWI-Prolog**.
 ## chamini2
 
 <p>
-    <a class="social" href="http://twitter.com/chamini2" alt="Twitter">
-        <img src="/img/twitter-128.png">
-    </a>
-    <a class="social" href="http://facebook.com/chamini2" alt="Facebook">
-        <img src="/img/facebook-128.png">
-    </a>
     <a class="social" href="http://github.com/chamini2" alt="GitHub">
         <img src="/img/github-128.png">
     </a>
@@ -76,5 +64,8 @@ Wordsearch solver developed in **SWI-Prolog**.
     </a>
     <a class="social" href="https://www.linkedin.com/in/chamini2" alt="LinkedIn">
         <img src="/img/linkedin-128.png">
+    </a>
+        <a class="social" href="http://twitter.com/chamini2" alt="Twitter">
+        <img src="/img/twitter-128.png">
     </a>
 </p>
