@@ -14,9 +14,11 @@ Most of these are for university courses.
 Simple calculator to help people with the change in Venezuelan currency,
 [which removed five zeros](https://en.wikipedia.org/wiki/Venezuelan_bol%C3%ADvar#Bol%C3%ADvar_soberano).
 
-* #### [Peras con Manzanas](https://perasconmanzanas.com/)
-Simple online inventory management. Focused in venezuelan start-ups that are focusing on getting
-their product out and may have multiple people making changes to the inventory.
+* #### [CREOENTODOS](https://github.com/chamini2/creoentodos)
+Art proyect for venezuelan artist Javier Grajales based on turning the "I don't trust anyone" mentality upside down.
+
+* #### [EDG Studio](https://edg-studio.com/)
+Portfolio website of designer Elay Die-Girbau.
 
 ### Development
 
@@ -25,6 +27,13 @@ Programming language ***Sapphire***, designed by me as a hobby.
 The compiler is being developed in **Haskell**, using *[Alex](https://github.com/simonmar/alex)* and *[Happy](https://github.com/simonmar/happy)*.
 
 ### Past work
+
+* #### [Peras con Manzanas](https://github.com/chamini2/perasconmanzanas) (Formerly at https://perasconmanzanas.com/)
+Simple online inventory management. Focused in venezuelan start-ups that are focusing on getting
+their product out and may have multiple people making changes to the inventory.
+
+Tested [PostgREST](https://postgrest.org/) over a Postgres database with row-level security. 
+And had a small NodeJS api on top of it. Migrations written in [Sqitch](https://sqitch.org).
 
 * #### [Rubik's Cube](https://github.com/chamini2/rubiks_cube)
 Rubik's cube solver developed in **C++**.
